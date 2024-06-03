@@ -1,0 +1,49 @@
+*** Decoded Morse Text
+HELP US SOS SOS SOS 
+OUR SHIP HAS HIT AN ICEBERG  
+PLEASE HELP US  
+THIS IS A SOS  
+OUR SHIP IS SINKING  
+WE HIT AN ICEBERG  
+THIS IS AN SOS  
+
+*** Morse Words with frequency=> 5
+...,---,...
+[SOS] (5) [(0, 2), (0, 3), (0, 4), (3, 3), (6, 3)]
+
+*** Morse Words with frequency=> 3
+.-,-.
+[AN] (3) [(1, 4), (5, 2), (6, 2)]
+..,...
+[IS] (3) [(3, 1), (4, 2), (6, 1)]
+
+*** Morse Words with frequency=> 2
+..-,...
+[US] (2) [(0, 1), (2, 2)]
+....,..,-
+[HIT] (2) [(1, 3), (5, 1)]
+---,..-,.-.
+[OUR] (2) [(1, 0), (4, 0)]
+....,.,.-..,.--.
+[HELP] (2) [(0, 0), (2, 1)]
+...,....,..,.--.
+[SHIP] (2) [(1, 1), (4, 1)]
+-,....,..,...
+[THIS] (2) [(3, 0), (6, 0)]
+..,-.-.,.,-...,.,.-.,--.
+[ICEBERG] (2) [(1, 5), (5, 3)]
+
+*** Morse Words with frequency=> 1
+.-
+[A] (1) [(3, 2)]
+.--,.
+[WE] (1) [(5, 0)]
+....,.-,...
+[HAS] (1) [(1, 2)]
+.--.,.-..,.,.-,...,.
+[PLEASE] (1) [(2, 0)]
+...,..,-.,-.-,..,-.,--.
+[SINKING] (1) [(4, 3)]
+
+*** Essential Message
+SOS HELP SHIP HIT ICEBERG SINKING 
